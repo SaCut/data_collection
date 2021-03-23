@@ -19,3 +19,10 @@
 - Removing an item
 - `list_name.remove("element")` or `list_name.remove(list_name[0])` removes the specified element from the list
 
+#### What is a tuple?
+- A list also a collection of elements
+- In contrast to lists, tuples are immbutable once created
+- The syntax `list_name = ()` is used to create a tuple
+- Tuples can also contain different data types
+
+
