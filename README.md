@@ -33,7 +33,8 @@
 
 #### Dictionary methods
 - `dict_name["key"]` gives back the values associated with that key
-- 
+- `dict_name.keys()` gives back all the keys in a dictionary
+- `dict_name.values()` gives back all the values in a dictionary
 
 ### Sets
 - Sets are data collections like lists, tuples and dictionaries, but they are not ordered
@@ -43,5 +44,3 @@
 #### Sets methods
 - add
 - discard
-
-#### Frozen sets
