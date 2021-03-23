@@ -34,3 +34,14 @@
 #### Dictionary methods
 - `dict_name["key"]` gives back the values associated with that key
 - 
+
+### Sets
+- Sets are data collections like lists, tuples and dictionaries, but they are not ordered
+- The syntax `set_name = {"element1", "element2", "element3"}` is used to create a set
+- Sets are mutable
+
+#### Sets methods
+- add
+- discard
+
+#### Frozen sets

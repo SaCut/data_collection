@@ -32,3 +32,6 @@ sparta_students["topics"].remove("data types")
 
 # checking again
 print(sparta_students)
+
+# sets
+car_parts = { }
